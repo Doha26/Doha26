@@ -1,4 +1,4 @@
-# Hi, I'm Pavel: A Fullstack Software Engineer 🚀
+# Hi, I'm Pavel. A Fullstack Software Engineer 🚀
 I'm a creative problem solving enthusiast, with a Focus on React, React Native , Android (Java - Kotlin), Node Js.
 
  [![Twitter: Pavel_FFP](https://img.shields.io/twitter/follow/Pavel_FFP?style=social)](https://twitter.com/Pavel_FFP)
