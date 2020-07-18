@@ -17,7 +17,7 @@ it beautifully to the environment and add to the diversity of the team and resea
 I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 ### 📫 How to reach me?
-If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/Pavel_FFP) or [LinkedIn](https://www.linkedin.com/in/pavel-foujeu-8a8992142/). You can also ask me anything (within reason).
+If you would like to discuss these things, you can join through [Gmail](mailto:foujeupavel@gmail.com) , [Twitter](https://twitter.com/Pavel_FFP) or [LinkedIn](https://www.linkedin.com/in/pavel-foujeu-8a8992142/).
 
 ### 💬 Want to know more about me?
 You can find me on- [LinkedIn](https://www.linkedin.com/in/pavel-foujeu-8a8992142/) and on [Sourcerer](https://sourcerer.io/doha26).
