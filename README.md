@@ -1,6 +1,6 @@
-# Hi, I'm Pavel. A Fullstack Software Engineer 🚀
-I'm a creative problem solving enthusiast, with a Focus on Mobile (React, React Native , Android (Java - Kotlin) ) and MERN stack.
-Building and looking for interesting career opportunities in Mobile (Android / React Native) and Web as a full-stack developer. Love to work within awesome team.
+# Hi, I'm Pavel. A Fullstack Mobile Software Engineer 🚀
+I'm a creative problem solving enthusiast, with a Focus on Mobile (React, React Native , Android (Java - Kotlin) ).
+Building and looking for interesting career opportunities in Mobile (Android / React Native). Have knowledge in MERN stack ( MongoDB, Express, React / Node.JS). Love to work within awesome team.
 Looking forward to collaborate🤝 and build amazing products 🏭for the world🌍
 
  [![Twitter: Pavel_FFP](https://img.shields.io/twitter/follow/Pavel_FFP?style=social)](https://twitter.com/Pavel_FFP)
