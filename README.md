@@ -1,6 +1,6 @@
-# Hi, I'm Pavel. A Fullstack Mobile Software Engineer 🚀
-I'm a creative problem solving enthusiast, with a Focus on Mobile (React, React Native , Android (Java - Kotlin) ).
-Building and looking for interesting career opportunities in Mobile (Android / React Native). Have knowledge in MERN stack ( MongoDB, Express, React / Node.JS). Love to work within awesome team.
+# Hi, I'm Pavel. A Fullstack Software Engineer 🚀
+I'm a creative problem solving enthusiast, enjoy working with  (TypeScript, Node.JS , Express, GraphQL, React, React Native , Android (Java - Kotlin) ).
+Building and looking for interesting career opportunities. Love to work within awesome team.
 Looking forward to collaborate 🤝 and build amazing products 🏭for the world🌍
 
  [![Twitter: Pavel_FFP](https://img.shields.io/twitter/follow/Pavel_FFP?style=social)](https://twitter.com/Pavel_FFP)
@@ -9,6 +9,3 @@ Looking forward to collaborate 🤝 and build amazing products 🏭for the world
 
 ### 📫 Reach me?
 If you would like to discuss these things, you can join through [Gmail](mailto:foujeupavel@gmail.com) , [Twitter](https://twitter.com/Pavel_FFP) or [LinkedIn](https://www.linkedin.com/in/pavel-foujeu-8a8992142/).
-
-### 💬 Want to know more about me?
-You can find me on [Sourcerer](https://sourcerer.io/doha26), Or look my [Resume](https://drive.google.com/file/d/1zYtZHiK3vOhxL98q6EpVIk5IOfKLLhvH/view?usp=sharing)
