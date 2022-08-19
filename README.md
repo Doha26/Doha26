@@ -1,4 +1,4 @@
-# Hi, I'm Pavel. A Fullstack Software Engineer 🚀
+# Hi, I'm Pavel. A Software Engineer 🚀
 I'm a creative problem solving enthusiast, enjoy working with  `TypeScript`, `Node.JS` , `Python`, `Express`, `GraphQL`, `React`, `React Native`.
 Use `Docker`, and `CI/CD Tools`, `Google Cloud Platform`, `AWS`.
 
