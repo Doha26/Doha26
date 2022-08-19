@@ -1,5 +1,5 @@
 # Hi, I'm Pavel. A Software Engineer 🚀
-I'm a creative problem solving enthusiast, enjoy working with  `TypeScript`, `Node.JS` , `Python`, `Express`, `GraphQL`, `React`, `React Native`.
+I'm a creative problem solving enthusiast, Experience working with  `TypeScript`, `Node.JS` , `Python`, `Express`, `GraphQL`, `React`, `React Native`.
 Use `Docker`, and `CI/CD Tools`, `Google Cloud Platform`, `AWS`.
 
 Building and looking for interesting career opportunities. Looking forward to collaborate 🤝
